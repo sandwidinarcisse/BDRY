@@ -123,7 +123,7 @@ When the pipeline runs, it prints a summary statistics table:
 ╔══════════════════════════════════════════╗
 ║         BDRY — Summary Statistics        ║
 ╠══════════════════════════════════════════╣
-║  Period         : Last 365 days          ║
+║  Period         : 08-05-25 to 07-05-26   ║
 ║  Trading days   : 252                    ║
 ║  Start price    : $5.43                  ║
 ║  End price      : $4.12                  ║
