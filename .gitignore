@@ -4,8 +4,7 @@
 
 # ── Generated chart output ────────────────────────────────────────────────────
 # PNGs are reproducible by running the pipeline — no need to track them.
-# Remove the lines below if you want to commit charts to the repo.
-BDRY_output/*.png
+
 
 # ── R session files ───────────────────────────────────────────────────────────
 .Rhistory
